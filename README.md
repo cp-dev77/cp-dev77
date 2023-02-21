@@ -27,7 +27,7 @@ const cp_dev = {
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,js,ts,nodejs,express,mongodb,git,postman)](https://skillicons.dev)
 
-<h2 align="center">GITHUB STATS :bar_chart:</h2>
+<h2 align="center">ESTADÍSTICAS DE GITHUB :bar_chart:</h2>
 
 <!--
 <h4 align="center">Visitor's count :eyes:</h4>
