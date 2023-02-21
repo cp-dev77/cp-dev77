@@ -8,7 +8,7 @@ const cp_dev = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React", "React Native", "Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
