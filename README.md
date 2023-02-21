@@ -1,16 +1,53 @@
-### Hi there 👋
+### Carlos Prado
+
+<h2 align="center">ACERCA DE MÍ</h2>
+
+```js
+const cp_dev = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB"]
+   }
+};
+```
+
+<h2 align="center">LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN :man_technologist:</h2>
+
+<p align="center">Herramientas que utilizo a diario, o que he utilizado o con las que he trabajado (mucho o poco) en el pasado.</p>
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,js,ts,nodejs,express,mongodb,git,postman)](https://skillicons.dev)
+
+<h2 align="center">GITHUB STATS :bar_chart:</h2>
 
 <!--
-**cp-dev77/cp-dev77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Visitor's count :eyes:</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center"><img src="https://profile-counter.glitch.me/{cp-dev77}/count.svg" alt="cp-dev77 :: Visitor's Count" /></p>
 -->
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp-dev77&langs_count=10&theme=tokyonight&layout=compact" /></p>
+
+<h2 align="center">ENLACES DE CONTACTO :alien:</h2>
+ 
+<div align="center">
+<a href="https://github.com/https://github.com/cp-dev77" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UC7Jz5Msn_LeKlKw4GjgiszQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br>
+
+---
