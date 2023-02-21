@@ -34,7 +34,7 @@ const cp_dev = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cp-dev77}/count.svg" alt="cp-dev77 :: Visitor's Count" /></p>
 -->
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Lenguajes top</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp-dev77&langs_count=10&theme=tokyonight&layout=compact" /></p>
 
