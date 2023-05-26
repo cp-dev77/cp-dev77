@@ -8,7 +8,7 @@ const cp_dev = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "React Native", "Angular"],
+         js: ["Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
@@ -25,7 +25,7 @@ const cp_dev = {
 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,js,ts,nodejs,express,mongodb,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,angular,js,ts,nodejs,express,mongodb,git,postman)](https://skillicons.dev)
 
 <h2 align="center">ESTADÍSTICAS DE GITHUB :bar_chart:</h2>
 
