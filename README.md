@@ -25,7 +25,7 @@ const cp_dev = {
 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,angular,js,ts,nodejs,express,mongodb,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ts,git,postman,bootstrap,angular)](https://skillicons.dev)
 
 <h2 align="center">ESTADÍSTICAS DE GITHUB :bar_chart:</h2>
 
